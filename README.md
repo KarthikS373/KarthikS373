@@ -1,10 +1,11 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://share.creavite.co/EqH4L4SCArvnvHQM.gif" height="175px"/></a>
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Karthik S</h1>
 
 <!-- CREDITS: https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I+am+Karthik+S;Bringing+life+to+innovation;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=cout<<+%22+Hello+World!!+%22;I+ am+Karthik+S;Life+=+Code+Eat+Sleep+Repeat;Experimenting+on+development;Bringing+life+to+innovation;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </p>
 <br>
 
@@ -19,6 +20,8 @@
 
 <br>
 
+<a href="#" ><img width="400" align="right" style="margin-lefts:25x;" height="auto" src="https://i.imgur.com/iXuL1HG.png"/></a>
+
 - 👨‍🎓 Fresher at **[IIIT Lucknow](https://iiitl.ac.in/)**
 
 - 🖥 **3 years of experience** building and developing software applications
@@ -32,6 +35,8 @@
 - 📫 How to reach me **lit2021012@iiitl.ac.in**
 
 <!-- - ⚡ Fun fact **Fact** -->
+
+
 <br>
 <h1 align="center">🚀 Languages and Tools:</h1>
 <br>
