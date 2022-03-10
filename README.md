@@ -5,7 +5,7 @@
 
 <!-- CREDITS: https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=cout<<+%22+Hello+World!!+%22;I+ am+Karthik+S;Life+=+Code+Eat+Sleep+Repeat;Bringing+life+to+innovation;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22(https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=5010&color=F75C7E&center=true&vCenter=true&width=440&height=45&lines=cout+%3C%3C+%22+Hello+World+%22+;I+am+Karthik+S;Life+%3D+Code+Eat+Sleep+Repeat;Experimenting+on+development;Bringing+life+to+Innovations)">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World;I+am+Karthik+S;Bringing+life+to+innovation;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </p>
 <br>
 
