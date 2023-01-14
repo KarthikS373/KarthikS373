@@ -4,6 +4,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Karthik S</h1>
 
 <!-- CREDITS: https://github.com/DenverCoder1/readme-typing-svg -->
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World;I+am+Karthik+S;Bringing+life+to+innovation;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </p>
@@ -22,13 +23,13 @@
 
 <a href="#" ><img width="400" align="right" style="margin-lefts:25x;" height="auto" src="https://i.imgur.com/iXuL1HG.png"/></a>
 
-- 👨‍🎓 Fresher at **[IIIT Lucknow](https://iiitl.ac.in/)**
+- 👨‍🎓 Sophomore at **[IIIT Lucknow](https://iiitl.ac.in/)**
 
-- 🖥 **3 years of experience** building and developing software applications
+- 🖥 **4+ years of experience** building and developing software applications
 
-- 📚 I’m currently learning **React and Django**
+- 📚 I’m currently participating in **hackathons**
 
-- 👯 I’m looking to collaborate on **Web development and Flutter projects**
+- 👯 I’m looking to collaborate on **Web development, Flutter projects and blockchain development**
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](link here)** -->
 
