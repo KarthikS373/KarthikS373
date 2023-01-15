@@ -91,8 +91,8 @@
 <p align="center">
 <a href = "https://www.linkedin.com/in/karthik-s-a8a0a2223/"><img height="45" width="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" /></a>            
 <a href = "https://github.com/KarthikS373"><img height="45" width="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" /></a>            
-<a href = "https://www.instagram.com/karthik._.jr/"><img height="45" width="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" /></a>            
-<a href = "https://twitter.com/_karthikjr_"><img height="45" width="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" /></a>            
+<a href = "https://www.instagram.com/0xkarthiks/"><img height="45" width="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" /></a>            
+<a href = "https://twitter.com/0xkarthikjr"><img height="45" width="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" /></a>            
 <a href = "https://www.facebook.com/karthik.sreekumar.010/"><img height="45" width="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/facebook.svg" /></a>
 </p>
 <br/>
