@@ -4,8 +4,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Karthik S</h1>
 
-<!-- CREDITS: https://github.com/DenverCoder1/readme-typing-svg -->
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=<+Hello+World+/+>;Truth+Seeker;Bringing+life+to+innovation;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </p>
