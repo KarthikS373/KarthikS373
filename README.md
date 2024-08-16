@@ -20,20 +20,20 @@
 
 <br>
 
-<a href="#" ><img width="400" align="right" style="margin-lefts:25x;" height="auto" src="https://i.imgur.com/iXuL1HG.png"/></a>
+<img
+  align="right"
+  src="https://render.gitanimals.org/lines/KarthikS373?pet-id=612281174680253898"
+  width="400"
+  style="margin-lefts:25x;" 
+  height="auto"
+/>
+
 
 - 👨‍🎓 Final year at **[IIIT Lucknow](https://iiitl.ac.in/)**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://karthik-isdev.xyz)**
 
 - 📫 How to reach me **lit2021012@iiitl.ac.in**
-
-<img
-  src="https://render.gitanimals.org/lines/KarthikS373?pet-id=612281174680253898"
-  width="900"
-  height="180"
-/>
-
   
 
 <br>
