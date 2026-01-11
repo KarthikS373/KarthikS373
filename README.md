@@ -11,8 +11,6 @@
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=karthiks373&theme=onedark&column=-1)
-
 </div>
 <br>
 
@@ -29,60 +27,10 @@
 />
 
 
-- 👨‍🎓 Final year at **[IIIT Lucknow](https://iiitl.ac.in/)**
+- 👨‍🎓 did crypto once upon a time... currently AI engineer**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://karthik-isdev.xyz)**
-
-- 📫 How to reach me **lit2021012@iiitl.ac.in**
+- 📫 reach me out on **[x](https://x.com/0xkarthikjr)**
   
-
-<br>
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
-
-<h1 align="center">🔥 Streaks </h1>
-
-<br>
-
-<p align="center">
-        <img title="Karthik's current Streak" alt="Karthik's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KarthikS373&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-</p>
-
-<h1 align="center">📊 My Github Stats</h1>
-  <br/>
-<p align="center"><img alt="Karthik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KarthikS373&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></p>
-
-<p align="center"><img alt="Karthik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikS373&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></p>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-<h1 align="center"> Connect with me: </h1>
-<br>
-
-<p align="center" gap="10">
-  <a href="https://karthik-is-dev.xyz"><img src="https://img.shields.io/badge/-portfolio-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:karthiks.naick@gmail.com"><img src="https://img.shields.io/badge/-email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/0xkarthiks/"><img src="https://img.shields.io/badge/-instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="https://twitter.com/0xkarthikjr"><img src="https://img.shields.io/badge/-twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
-
-<br/>
-
-<h1 align="center"> ❤ Views and Followers </h1>
-
-<br/>
-
-<p align="center"><a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=KarthikS373">            
-</a><img src="https://img.shields.io/github/followers/KarthikS373?label=Followers&style=social" alt="GitHub Badge">
-</p>
-<br>
-<br>
 
 <p align="center">
 ![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)
