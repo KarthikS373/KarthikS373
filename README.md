@@ -31,11 +31,6 @@
 
 - 📫 reach me out on **[x](https://x.com/0xkarthikjr)**
   
-
-<p align="center">
-![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)
-</p>
-
 <h1 align="center"> 🤝 Support</h1>
 <p align="center">
 Contributions, issues, and feature requests are most welcome!
